@@ -1,0 +1,14 @@
+.single-feedback img{
+    width: 60px;
+
+}
+.single-feedback{
+    padding: 20px;
+    border: 2px solid #BFBFBF;
+    border-radius: 10px;
+    height: 220px;
+    margin-bottom: 80px;
+}
+.single-feedback p{
+    color: #707070;
+}

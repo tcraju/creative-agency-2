@@ -1,0 +1,20 @@
+.header-area{
+    position: relative;
+    z-index: 2;
+    margin-bottom: 150px;
+    /* overflow-x: hidden; */
+}
+
+  .header-area::after {
+ 
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 200%;
+        width: 4000%;
+        background-color: #FBD062;
+        content: "";
+        z-index: -1;
+        transform: skew(95deg);
+        margin-left: -3900%;
+  }

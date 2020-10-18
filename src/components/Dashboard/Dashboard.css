@@ -1,0 +1,7 @@
+.side-bar{
+    height: 100%;
+    background-color: aqua;
+}
+.toggle-item p:hover{
+    cursor: pointer;
+}
